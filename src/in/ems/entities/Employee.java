@@ -12,6 +12,10 @@ public class Employee {
 	private String eDOL;
 	
 	
+	public Employee()
+	{
+		super();
+	}
 	
 	public Employee(int eID, String eName, double eSalary, int deptID, String eAddress, String ePhone, String eDOJ,
 			String eDOL) {

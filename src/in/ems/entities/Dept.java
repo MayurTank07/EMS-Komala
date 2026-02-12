@@ -5,8 +5,6 @@ public class Dept {
 	private int deptID;
 	private String deptName;
 	
-	
-	
 	public Dept(int deptID, String deptName) {
 		super();
 		this.deptID = deptID;
